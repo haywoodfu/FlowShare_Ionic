@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/FlowShare_Ionic/Plugins/cordova-plugin-console/CDVLogger.m \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/FlowShare_Ionic/Plugins/cordova-plugin-console/CDVLogger.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/haywood/Documents/Developing/FlowShare_Ionic/FlowShare_Ionic/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
